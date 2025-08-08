@@ -1,0 +1,32 @@
+{
+  "name": "bill-calculator",
+  "version": "1.0.0",
+  "description": "A robust JavaScript function for calculating restaurant/retail bills with support for discounts, taxes, and multiple items",
+  "main": "calculateBill.js",
+  "scripts": {
+    "test": "node examples.js",
+    "example": "node examples.js"
+  },
+  "keywords": [
+    "bill",
+    "calculator",
+    "restaurant",
+    "pos",
+    "discount",
+    "tax",
+    "invoice",
+    "receipt",
+    "financial",
+    "calculation"
+  ],
+  "author": "Sahil Garg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahilGarg15/bill-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SahilGarg15/bill-calculator/issues"
+  },
+  "homepage": "https://github.com/SahilGarg15/bill-calculator#readme"
+}
